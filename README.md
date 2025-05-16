@@ -53,8 +53,9 @@ Foodigo is a **Flutter-based UI project** inspired by this [Figma Design](https:
 
 ---
 
-## 📸 Screenshots (optional)
+## 📸 Screenshots
 
+<img src="images/screenshots/HomePage.png" alt="Home Page" width="300" />
 ![Home Page](images/screenshots/HomePage.png)
 
 ---
