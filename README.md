@@ -72,3 +72,11 @@ Foodigo is a **Flutter-based UI project** inspired by this [Figma Design](https:
    ```bash
    git clone https://github.com/your-username/foodigo.git
    cd foodigo
+
+2. Install dependencies:
+   ```bash
+   flutter pub get
+
+3. Run the app:
+   ```bash
+   flutter run
